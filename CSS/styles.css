@@ -1,0 +1,35 @@
+  body {
+    background-color: rgb(215,236,239);
+    color: #3A4663;
+  }
+
+  a:link {
+    color: #556293;
+  }
+  a:visited {
+    color: #378E9E;
+  }
+
+  h1 {
+    color: #556293;
+  }
+
+  h2 {
+    color: #66BFBF;
+  }
+
+  h3 {
+    color: #378E9E;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #556293;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  img {
+    height: 175px
+  }
